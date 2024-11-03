@@ -16,7 +16,7 @@ I'm passionate about **Computer Vision** and **Data Analytics**! Constantly expl
 ### 📫 How to Reach Me  
 Feel free to connect with me on LinkedIn or check out my GitHub to see my projects!
 
-[![LinkedIn](https://raw.githubusercontent.com/lebadac/lebadac/main/images/linkedin-icon.png) **LinkedIn**](https://www.linkedin.com/in/lebadac-uitk16/)  
+[![LinkedIn](https://www.flaticon.com/free-icon/github_733609) **LinkedIn**](https://www.linkedin.com/in/lebadac-uitk16/)  
 [![GitHub](https://raw.githubusercontent.com/lebadac/lebadac/main/images/github-icon.png) **GitHub**](https://github.com/lebadac/)
 
 ---
