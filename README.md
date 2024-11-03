@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Welcome to My Page!
 
-<!--
-**lebadac/lebadac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I’m Dac! 👨‍💻  
+🎓 **Student at the University of Information Technology**  
+💡 **Major: Information Systems**
 
-Here are some ideas to get you started:
+I'm passionate about **Computer Vision** and **Data Analytics**! Constantly exploring and learning to advance in these areas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 Interests
+- 📸 **Computer Vision**: Transforming images into insights and understanding
+
+---
+
+### 📫 How to Reach Me  
+Feel free to connect with me on LinkedIn or check out my GitHub to see my projects!
+
+[![LinkedIn](https://raw.githubusercontent.com/lebadac/lebadac/main/images/linkedin-icon.png) **LinkedIn**](https://www.linkedin.com/in/lebadac-uitk16/)  
+[![GitHub](https://raw.githubusercontent.com/lebadac/lebadac/main/images/github-icon.png) **GitHub**](https://github.com/lebadac/)
+
+---
+
