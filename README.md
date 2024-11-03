@@ -20,4 +20,7 @@ Feel free to connect with me on LinkedIn or check out my GitHub to see my projec
 [**GitHub**](https://github.com/lebadac/)
 
 ---
-
+<a href="https://github.com/lebadac/FusionBot">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lebadac&repo=FusionBot&theme=radical" />
+</a>    
