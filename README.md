@@ -4,7 +4,7 @@
 🎓 **Student at the University of Information Technology**  
 💡 **Major: Information Systems**
 
-I'm passionate about **Computer Vision** and **Data Analytics**! Constantly exploring and learning to advance in these areas.
+I'm passionate about **Machine Learning** and *Deep Learning**! Constantly exploring and learning to advance in these areas.
 
 ---
 
