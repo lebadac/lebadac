@@ -21,7 +21,7 @@ Feel free to connect with me on LinkedIn or check out my GitHub to see my projec
 
 ---
 <a href="https://github.com/lebadac/Diabetes_App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lebadac&repo=CustomerBot&theme=blueberry" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lebadac&repo=Diabetes_App&theme=blueberry" />
 </a>
 <a href="https://github.com/lebadac/CustomerBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lebadac&repo=CustomerBot&theme=blueberry" />
